@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.drag-active {
+  @apply border-blue-500 bg-blue-50;
+}
+
+.drag-reject {
+  @apply border-red-500 bg-red-50;
+}
