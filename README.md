@@ -84,6 +84,9 @@ The React app will be available at `http://localhost:5173`
 - **Styling**: Modern gradient backgrounds, glassmorphism effects
 
 ## 📱 Screenshots
+<img width="701" height="434" alt="image" src="https://github.com/user-attachments/assets/d15e584b-20f2-4e5c-9604-82b34f59f09c" />
+<img width="707" height="351" alt="image (1)" src="https://github.com/user-attachments/assets/d6c9819c-103e-4581-9eb5-4035f5279f75" />
+
 
 The app features:
 - Clean, modern interface with gradient backgrounds
